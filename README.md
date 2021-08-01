@@ -17,5 +17,12 @@ After conducting the second analysis, in the School Summary for Thomas High Scho
 - The % Passing Reading changed from **97.308869** to **97.018739**.
 - The % Overall Passing changed from **90.948012** to **90.630324**.
 
+### Math and Reading Scores by Grade
+After conducting the second analysis, in the Average Math and Reading Scores by Grade per School, for Thomas High School, the numbers for the 9th grade had changed:
+- The Average Math Score for the 9th Grade changed from **83.6** to **nan** because there is no longer any data for the 9th grade students.
 
+- The Average Reading Score for the 9th Grade changed from **83.7** to **nan** because there is no longer any data for the 9th grade students.
+
+### Scores By School Spending
+After conducting the second analysis, in the Scores By School Spending, 
 
